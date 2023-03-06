@@ -31,6 +31,6 @@
    - Wyślij zmiany do zdalnego źródła
    - Spróbuj wciągnąć swoją gałąź do gałęzi grupowej
    - Zaktualizuj sprawozdanie i zrzuty o ten krok i wyślij aktualizację do zdalnego źródła (na swojej gałęzi)
-7. Wystaw Pull Request do gałęzi grupowej
-8. Zgłoś zadanie (Teams assignment - jeżeli dostępne)
+7. ~~~Wystaw Pull Request do gałęzi grupowej~~
+8. ~~Zgłoś zadanie (Teams assignment - jeżeli dostępne)~~
 
