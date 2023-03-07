@@ -13,7 +13,7 @@
 
 ## Zadania do wykonania
 1. Zainstaluj klienta Git i obsługę kluczy SSH
-2. Sklonuj repozytorium https://github.com/InzynieriaOprogramowaniaAGH/MDO2023_S za pomocą HTTPS
+2. Sklonuj repozytorium https://github.com/InzynieriaOprogramowaniaAGH/MDO2023_INO za pomocą HTTPS
 3. Upewnij się w kwestii dostępu do repozytorium jako uczestnik i sklonuj je za pomocą utworzonego klucza SSH
    - Utwórz dwa klucze SSH, inne niż RSA, w tym co najmniej jeden zabezpieczony hasłem
    - Skonfiguruj klucz SSH jako metodę dostępu do GitHuba
