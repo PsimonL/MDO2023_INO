@@ -10,7 +10,7 @@
   - listing historii poleceń (cmd/bash/PowerShell)
 - Sprawozdanie z zadania powinno umożliwiać **odtworzenie wykonanych kroków** z wykorzystaniem opisu, poleceń i zrzutów. Oznacza to, że sprawozdanie powinno zawierać opis czynności w odpowiedzi na (także zawarte) kroki z zadania. Przeczytanie dokumentu powinno umożliwiać zapoznanie się z procesem i jego celem bez konieczności otwierania treści zadania.
 
-- Sprawozdanie proszę umieścić w następującej ścieżce: ```<kierunek>/<grupa>/<inicjały><numerIndeksu>/Lab03/Sprawozdanie.md```, w formacie Markdown
+- Sprawozdanie proszę umieścić w następującej ścieżce: ```<kierunek>/<grupa>/<inicjały><numerIndeksu>/Lab02/Sprawozdanie.md```, w formacie Markdown
 
 ## Zadania do wykonania
 ### Wybór oprogramowania na zajęcia
