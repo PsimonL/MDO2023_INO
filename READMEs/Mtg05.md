@@ -26,6 +26,7 @@
 * Zapoznaj się z dokumentacją https://iperf.fr/
 * Uruchom wewnątrz kontenera serwer iperf (iperf3)
 * Połącz się z nim z drugiego kontenera, zbadaj ruch
+* Zapoznaj się z dokumentacją `network create` : https://docs.docker.com/engine/reference/commandline/network_create/
 * Ponów ten krok, ale wykorzystaj własną dedykowaną sieć mostkową. Spróbuj użyć rozwiązywania nazw
 * Połącz się spoza kontenera (z hosta i spoza hosta)
 * Przedstaw przepustowość komunikacji lub problem z jej zmierzeniem (wyciągnij log z kontenera)
