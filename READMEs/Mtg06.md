@@ -33,6 +33,7 @@
 * Docelowo, `Jenkinsfile` definiujący *pipeline* powinien być umieszczony w repozytorium. Optymalnie: w *sforkowanym* repozytorium wybranego oprogramowania
 
 ### Szczegóły
+Ciąg dalszy sprawozdania
 #### Wymagane składniki
 *  Kontener Jenkins i DIND skonfigurowany według instrukcji dostawcy oprogramowania
 *  Pliki `Dockerfile` wdrażające instancję Jenkinsa załączone w repozytorium przedmiotowym pod ścieżką i na gałęzi według opisu z poleceń README
