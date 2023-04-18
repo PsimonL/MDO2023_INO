@@ -39,7 +39,8 @@
 ### Zarządzanie kontenerem
 * Wykonaj, w zależności od dostępności obrazów:
   * Uruchom kontener sekcji `Deploy` z poprzednich zajęć
-  * Zaimportuj obrazy `Builder` i `Tester`
+  * Pobierz z Docker Hub aplikację "opublikowaną" w ramach kroku Publish
+  * Opcjonalnie: zaimportuj obrazy `Builder` i `Tester` (z pliku, nie z Docker Hub)
   * Uruchom aplikację dostarczaną kontenerem Deploy/Publish, podłącz *storage* oraz wyprowadź port
   * Zatrzymaj i usuń kontener
 * W przypadku aplikacji działającej poza kontenerem:
