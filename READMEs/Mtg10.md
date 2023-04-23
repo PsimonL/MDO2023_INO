@@ -23,7 +23,11 @@ Niniejszy temat jest poświęcony przygotowaniu źródła instalacyjnego systemu
 ## Zadania do wykonania
 * Zainstaluj system Fedora/Centos Stream https://download.fedoraproject.org/pub/fedora/linux/releases/38/Server/x86_64/iso/Fedora-Server-netinst-x86_64-38-1.6.iso
 * Pobierz plik odpowiedzi `/root/anaconda-ks.cfg`
-* Rozszerz plik odpowiedzi o repozytoria i oprogramowanie potrzebne do uruchomienia programu. W przypadku kontenera, jest to po prostu Docker. Gdy program pracuje poza kontenerem, potrzebny jest cały łańcuch dependencji. Wybierz oprogramowanie na podstawie poprzedniego sprawozdania. Zapoznaj się z dokumentacją pliku odpowiedzi na https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/performing_an_advanced_rhel_9_installation/kickstart-commands-and-options-reference_installing-rhel-as-an-experienced-user
+* Rozszerz plik odpowiedzi o repozytoria i oprogramowanie potrzebne do uruchomienia programu. 
+  * W przypadku kontenera, jest to po prostu Docker.
+  * Gdy program pracuje poza kontenerem, potrzebny jest cały łańcuch dependencji.
+  * Wybierz oprogramowanie na podstawie poprzedniego sprawozdania.
+  * Zapoznaj się z dokumentacją pliku odpowiedzi na https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/performing_an_advanced_rhel_9_installation/kickstart-commands-and-options-reference_installing-rhel-as-an-experienced-user
 * Zapewnij, by od razu po pierwszym uruchomieniu systemu, oprogramowanie zostało uruchomione (w dowolny sposób)
 * Połącz plik odpowiedzi z nośnikiem instalacyjnym lub zmodyfikuj nośnik tak, by wskazywał na plik odpowiedzi w sieci
 * Zautomatyzuj proces tworzenia maszyny wirtualnej i uruchomienia instalacji nienadzorowanej. Użyj np. wiersza poleceń VirtualBox lub cmdletów Hyper-V
