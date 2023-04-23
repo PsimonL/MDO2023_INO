@@ -29,7 +29,7 @@ Niniejszy temat jest poświęcony przygotowaniu źródła instalacyjnego systemu
   * Wybierz oprogramowanie na podstawie poprzedniego sprawozdania.
   * Zapoznaj się z dokumentacją pliku odpowiedzi na https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/performing_an_advanced_rhel_9_installation/kickstart-commands-and-options-reference_installing-rhel-as-an-experienced-user
 * Zapewnij, by od razu po pierwszym uruchomieniu systemu, oprogramowanie zostało uruchomione (w dowolny sposób)
-* Połącz plik odpowiedzi z nośnikiem instalacyjnym lub zmodyfikuj nośnik tak, by wskazywał na plik odpowiedzi w sieci
+* Połącz plik odpowiedzi z nośnikiem instalacyjnym lub zmodyfikuj nośnik tak, by wskazywał na plik odpowiedzi w sieci (plan minimum: wskaź nośnikowi, aby użył pliku odpowiedzi)
 * Zautomatyzuj proces tworzenia maszyny wirtualnej i uruchomienia instalacji nienadzorowanej. Użyj np. wiersza poleceń VirtualBox lub cmdletów Hyper-V
   * https://www.virtualbox.org/manual/ch08.html
   * https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/try-hyper-v-powershell
